@@ -1,4 +1,4 @@
-# 🏆 Mini-CTF: "RolePlay-Repeater" (Burp Suite Practice)
+# 🏆 Mini-CTF: "RolePlay-Repeater" 
 
 This repository hosts a small, vulnerable web application designed specifically to be solved using only the core features of **Burp Suite** (Proxy, Repeater, and Intruder). This project demonstrates proficiency in common web application penetration testing techniques like **Cookie Manipulation** and **IDOR/Parameter Enumeration**.
 
