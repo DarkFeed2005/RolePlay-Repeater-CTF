@@ -45,7 +45,7 @@ This flag requires finding a hidden resource and modifying a session cookie to g
     * **Modified:** `Cookie: role=admin`
 5.  **View Flag:** Click **Send**. The response body will contain the first flag.
 
-**FLAG-1:** `FLAG-1{hidden_cookie_treasure}`
+**FLAG-1:** 
 
 ### 2. Flag 2: Parameter Brute-Forcing with Intruder
 
@@ -65,7 +65,7 @@ This flag requires iterating through possible profile IDs to find the highly pri
 5.  **Analyze:** Start the attack. Sort the results by the **Length** column. The request for `id=1` will have a distinctly **larger response length** because it contains the secret note/flag data.
 6.  **View Flag:** Select the request with payload `1` and view the response, which is the Root Admin's profile.
 
-**FLAG-2:** `FLAG-2{brute_force_is_your_friend}`
+**FLAG-2:** 
 
 ---
 
