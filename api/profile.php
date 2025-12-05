@@ -18,7 +18,7 @@ switch ($user_id) {
             "id" => 1,
             "username" => "RootAdmin",
             "access_level" => "MAX",
-            "secret_note" => "The second flag is: FLAG-2{brute_force_is_your_friend}"
+            "secret_note" => "The second flag is: FLAG-2{YnJ1dGVfZm9yY2VfaXNfeW91cl9mcmllbmQ=}"
         ];
         break;
     case '123':
