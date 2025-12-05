@@ -25,7 +25,7 @@ $page = $_GET['page'] ?? 'home';
 <html lang="en">
 <head>
     <meta charset="UTF-8">
-    <title>The Hidden Admin CTF</title>
+    <title>RolePlay-Repeater-CTF</title>
     <style>
         body { font-family: Arial, sans-serif; margin: 50px; }
         .container { max-width: 600px; margin: 0 auto; padding: 20px; border: 1px solid #ccc; border-radius: 5px; }
@@ -37,7 +37,7 @@ $page = $_GET['page'] ?? 'home';
 </head>
 <body>
     <div class="container">
-        <h1>The Hidden Admin CTF</h1>
+        <h1>RolePlay-Repeater-CTF</h1>
 
         <?php if (!$is_logged_in || $page == 'home'): ?>
             <h2>Login</h2>
