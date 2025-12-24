@@ -8,7 +8,7 @@ if ($role === 'admin') {
         <h2>🎉 Congratulations! Access Granted! 🎉</h2>
         <p>You successfully manipulated your session privileges.</p>
         <div class="flag">
-            FLAG-1{hidden_cookie_treasure}
+            FLAG-1{SGV5IS4gd2VsY29tZSB0byA/ZGFya2ZlZWQyMDA1Pw==}
         </div>
     ';
 } else {
